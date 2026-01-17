@@ -10,50 +10,40 @@ To provide you with a high-quality README that looks professional on GitHub, I h
 
 Students often struggle to clarify doubts outside the classroom due to a lack of interactive communication tools. EduConnect aims to:
 
-* 
-**Bridge the Gap**: Provide a digital space for seamless teacher-student interaction.
+* **Bridge the Gap**: Provide a digital space for seamless teacher-student interaction.
 
 
-* 
-**Promote Collaboration**: Foster an environment where students learn from both educators and peers.
+* **Promote Collaboration**: Foster an environment where students learn from both educators and peers.
 
 
-* 
-**Increase Efficiency**: Accelerate learning by providing timely responses to academic queries.
+* **Increase Efficiency**: Accelerate learning by providing timely responses to academic queries.
 
 
 
 ## ✨ Features
 
-* 
-**Doubt Posting**: Students can easily post academic questions in a centralized feed.
+* **Doubt Posting**: Students can easily post academic questions in a centralized feed.
 
 
-* 
-**Teacher Engagement**: Teachers can provide detailed replies and use reactions to motivate students.
+* **Teacher Engagement**: Teachers can provide detailed replies and use reactions to motivate students.
 
 
-* 
-**Peer Interaction**: Students can view, like, and save their peers' posts for future reference.
+* **Peer Interaction**: Students can view, like, and save their peers' posts for future reference.
 
 
-* 
-**User Management**: Includes secure Login, Signup, and Password Recovery.
+* **User Management**: Includes secure Login, Signup, and Password Recovery.
 
 
 
 ## 🛠️ Tech Stack
 
-* 
-**Language**: **Java** — Handles business logic, event handling, and app workflow.
+* **Language**: **Java** — Handles business logic, event handling, and app workflow.
 
 
-* 
-**UI Design**: **XML** — Defines the structure, styling, and responsiveness of the layout.
+* **UI Design**: **XML** — Defines the structure, styling, and responsiveness of the layout.
 
 
-* 
-**Backend**: **Firebase** — Used for real-time data storage (Firestore), authentication, and notifications.
+* **Backend**: **Firebase** — Used for real-time data storage (Firestore), authentication, and notifications.
 
 
 
