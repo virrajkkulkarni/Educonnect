@@ -1,7 +1,3 @@
-To provide you with a high-quality README that looks professional on GitHub, I have formatted this version using standard **Markdown syntax**. This version includes the **Setup and Installation** steps you requested, organized into clear sections.
-
----
-
 # EduConnect: A Collaborative Learning Platform
 
 **EduConnect** is an Android-based digital space designed to bridge the communication gap between students and teachers. It provides a centralized platform for academic doubt management and community-driven knowledge sharing.
